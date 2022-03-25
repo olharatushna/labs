@@ -1,0 +1,15 @@
+G:\it voyti\labs\bin\Debug\net6.0\labs.exe
+G:\it voyti\labs\bin\Debug\net6.0\labs.deps.json
+G:\it voyti\labs\bin\Debug\net6.0\labs.runtimeconfig.json
+G:\it voyti\labs\bin\Debug\net6.0\labs.dll
+G:\it voyti\labs\bin\Debug\net6.0\labs.pdb
+G:\it voyti\labs\obj\Debug\net6.0\labs.csproj.AssemblyReference.cache
+G:\it voyti\labs\obj\Debug\net6.0\labs.GeneratedMSBuildEditorConfig.editorconfig
+G:\it voyti\labs\obj\Debug\net6.0\labs.AssemblyInfoInputs.cache
+G:\it voyti\labs\obj\Debug\net6.0\labs.AssemblyInfo.cs
+G:\it voyti\labs\obj\Debug\net6.0\labs.csproj.CoreCompileInputs.cache
+G:\it voyti\labs\obj\Debug\net6.0\labs.dll
+G:\it voyti\labs\obj\Debug\net6.0\refint\labs.dll
+G:\it voyti\labs\obj\Debug\net6.0\labs.pdb
+G:\it voyti\labs\obj\Debug\net6.0\labs.genruntimeconfig.cache
+G:\it voyti\labs\obj\Debug\net6.0\ref\labs.dll
