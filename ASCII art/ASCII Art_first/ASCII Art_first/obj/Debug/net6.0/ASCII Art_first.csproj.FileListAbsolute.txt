@@ -1,0 +1,15 @@
+G:\it voyti\labs\ASCII art\ASCII Art_first\ASCII Art_first\bin\Debug\net6.0\ASCII Art_first.exe
+G:\it voyti\labs\ASCII art\ASCII Art_first\ASCII Art_first\bin\Debug\net6.0\ASCII Art_first.deps.json
+G:\it voyti\labs\ASCII art\ASCII Art_first\ASCII Art_first\bin\Debug\net6.0\ASCII Art_first.runtimeconfig.json
+G:\it voyti\labs\ASCII art\ASCII Art_first\ASCII Art_first\bin\Debug\net6.0\ASCII Art_first.dll
+G:\it voyti\labs\ASCII art\ASCII Art_first\ASCII Art_first\bin\Debug\net6.0\ASCII Art_first.pdb
+G:\it voyti\labs\ASCII art\ASCII Art_first\ASCII Art_first\obj\Debug\net6.0\ASCII Art_first.csproj.AssemblyReference.cache
+G:\it voyti\labs\ASCII art\ASCII Art_first\ASCII Art_first\obj\Debug\net6.0\ASCII Art_first.GeneratedMSBuildEditorConfig.editorconfig
+G:\it voyti\labs\ASCII art\ASCII Art_first\ASCII Art_first\obj\Debug\net6.0\ASCII Art_first.AssemblyInfoInputs.cache
+G:\it voyti\labs\ASCII art\ASCII Art_first\ASCII Art_first\obj\Debug\net6.0\ASCII Art_first.AssemblyInfo.cs
+G:\it voyti\labs\ASCII art\ASCII Art_first\ASCII Art_first\obj\Debug\net6.0\ASCII Art_first.csproj.CoreCompileInputs.cache
+G:\it voyti\labs\ASCII art\ASCII Art_first\ASCII Art_first\obj\Debug\net6.0\ASCII Art_first.dll
+G:\it voyti\labs\ASCII art\ASCII Art_first\ASCII Art_first\obj\Debug\net6.0\refint\ASCII Art_first.dll
+G:\it voyti\labs\ASCII art\ASCII Art_first\ASCII Art_first\obj\Debug\net6.0\ASCII Art_first.pdb
+G:\it voyti\labs\ASCII art\ASCII Art_first\ASCII Art_first\obj\Debug\net6.0\ASCII Art_first.genruntimeconfig.cache
+G:\it voyti\labs\ASCII art\ASCII Art_first\ASCII Art_first\obj\Debug\net6.0\ref\ASCII Art_first.dll
