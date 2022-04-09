@@ -1,13 +1,13 @@
 ﻿using System;
 
-namespace ASCII 
+namespace ASCII
 {
-    class Program 
-    { 
+    class Program
+    {
         static void Main(string[] args)
         {
             Console.WriteLine("Please enter how many dogs you need: ");
-            int dogQ = Console.Read();
+            int dogQ = 4;
             Console.WriteLine("Please enter dog eye shape: ");
             var UserInput = Console.ReadKey().KeyChar;
             var dogEye = UserInput;
@@ -16,27 +16,32 @@ namespace ASCII
             var UserInput2 = Console.ReadKey().KeyChar;
             var dogNose = UserInput2;
             string padding = ("\t\t\t\t\t\t\t");
-            var lines = 4;
+            var lines = 2;
             for (int i = 0; i < lines; i++)
             {
-                Console.WriteLine("");
+             Console.WriteLine("");
             }
-            for (int y = 0; y < dogQ; y++) { 
-            Console.WriteLine(@$"{padding}  /^ ^\");
-            Console.WriteLine(@$"{padding} / {dogEye} {dogEye} \");
-            Console.WriteLine(@$"{padding}V \ {dogNose} / V");
-            Console.WriteLine(@$"{padding}  / - \");
-            Console.WriteLine(@$"{padding} /    |");
-            Console.WriteLine(@$"{padding}V__) ||)");
-            Console.WriteLine();
-            Console.ReadLine();
+            for (int ii = 0; ii < dogQ; ii++)
+            {
+                Console.WriteLine(@$"{padding}  /^ ^\");
+                Console.WriteLine(@$"{padding} / {dogEye} {dogEye} \");
+                Console.WriteLine(@$"{padding}V \ {dogNose} / V");
+                Console.WriteLine(@$"{padding}  / - \");
+                Console.WriteLine(@$"{padding} /    |");
+                Console.WriteLine(@$"{padding}V__) ||)");
+                Console.WriteLine();
+                Console.ReadLine();
             }
-          
         }
-    
+
+
     }
 
+
+
+
+
 }
-    
+
 
 
