@@ -1,0 +1,15 @@
+G:\it voyti\labs\C# practise\Hello Mr.Mrs\Hello Mr.Mrs\obj\Debug\net6.0\Hello Mr.Mrs..csproj.AssemblyReference.cache
+G:\it voyti\labs\C# practise\Hello Mr.Mrs\Hello Mr.Mrs\obj\Debug\net6.0\Hello Mr.Mrs..GeneratedMSBuildEditorConfig.editorconfig
+G:\it voyti\labs\C# practise\Hello Mr.Mrs\Hello Mr.Mrs\obj\Debug\net6.0\Hello Mr.Mrs..AssemblyInfoInputs.cache
+G:\it voyti\labs\C# practise\Hello Mr.Mrs\Hello Mr.Mrs\obj\Debug\net6.0\Hello Mr.Mrs..AssemblyInfo.cs
+G:\it voyti\labs\C# practise\Hello Mr.Mrs\Hello Mr.Mrs\obj\Debug\net6.0\Hello Mr.Mrs..csproj.CoreCompileInputs.cache
+G:\it voyti\labs\C# practise\Hello Mr.Mrs\Hello Mr.Mrs\bin\Debug\net6.0\Hello Mr.Mrs..exe
+G:\it voyti\labs\C# practise\Hello Mr.Mrs\Hello Mr.Mrs\bin\Debug\net6.0\Hello Mr.Mrs..deps.json
+G:\it voyti\labs\C# practise\Hello Mr.Mrs\Hello Mr.Mrs\bin\Debug\net6.0\Hello Mr.Mrs..runtimeconfig.json
+G:\it voyti\labs\C# practise\Hello Mr.Mrs\Hello Mr.Mrs\bin\Debug\net6.0\Hello Mr.Mrs..dll
+G:\it voyti\labs\C# practise\Hello Mr.Mrs\Hello Mr.Mrs\bin\Debug\net6.0\Hello Mr.Mrs..pdb
+G:\it voyti\labs\C# practise\Hello Mr.Mrs\Hello Mr.Mrs\obj\Debug\net6.0\Hello Mr.Mrs..dll
+G:\it voyti\labs\C# practise\Hello Mr.Mrs\Hello Mr.Mrs\obj\Debug\net6.0\refint\Hello Mr.Mrs..dll
+G:\it voyti\labs\C# practise\Hello Mr.Mrs\Hello Mr.Mrs\obj\Debug\net6.0\Hello Mr.Mrs..pdb
+G:\it voyti\labs\C# practise\Hello Mr.Mrs\Hello Mr.Mrs\obj\Debug\net6.0\Hello Mr.Mrs..genruntimeconfig.cache
+G:\it voyti\labs\C# practise\Hello Mr.Mrs\Hello Mr.Mrs\obj\Debug\net6.0\ref\Hello Mr.Mrs..dll
