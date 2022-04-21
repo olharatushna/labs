@@ -1,0 +1,15 @@
+G:\it voyti\labs\C# practise\Shapes next level\Shapes next level\obj\Debug\net6.0\Shapes next level.csproj.AssemblyReference.cache
+G:\it voyti\labs\C# practise\Shapes next level\Shapes next level\obj\Debug\net6.0\Shapes next level.GeneratedMSBuildEditorConfig.editorconfig
+G:\it voyti\labs\C# practise\Shapes next level\Shapes next level\obj\Debug\net6.0\Shapes next level.AssemblyInfoInputs.cache
+G:\it voyti\labs\C# practise\Shapes next level\Shapes next level\obj\Debug\net6.0\Shapes next level.AssemblyInfo.cs
+G:\it voyti\labs\C# practise\Shapes next level\Shapes next level\obj\Debug\net6.0\Shapes next level.csproj.CoreCompileInputs.cache
+G:\it voyti\labs\C# practise\Shapes next level\Shapes next level\bin\Debug\net6.0\Shapes next level.exe
+G:\it voyti\labs\C# practise\Shapes next level\Shapes next level\bin\Debug\net6.0\Shapes next level.deps.json
+G:\it voyti\labs\C# practise\Shapes next level\Shapes next level\bin\Debug\net6.0\Shapes next level.runtimeconfig.json
+G:\it voyti\labs\C# practise\Shapes next level\Shapes next level\bin\Debug\net6.0\Shapes next level.dll
+G:\it voyti\labs\C# practise\Shapes next level\Shapes next level\bin\Debug\net6.0\Shapes next level.pdb
+G:\it voyti\labs\C# practise\Shapes next level\Shapes next level\obj\Debug\net6.0\Shapes next level.dll
+G:\it voyti\labs\C# practise\Shapes next level\Shapes next level\obj\Debug\net6.0\refint\Shapes next level.dll
+G:\it voyti\labs\C# practise\Shapes next level\Shapes next level\obj\Debug\net6.0\Shapes next level.pdb
+G:\it voyti\labs\C# practise\Shapes next level\Shapes next level\obj\Debug\net6.0\Shapes next level.genruntimeconfig.cache
+G:\it voyti\labs\C# practise\Shapes next level\Shapes next level\obj\Debug\net6.0\ref\Shapes next level.dll
